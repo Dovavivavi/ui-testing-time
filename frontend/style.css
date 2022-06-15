@@ -1,0 +1,19 @@
+header{
+    background-color: aqua;
+    padding: 3px;
+}
+
+h1{
+    color: palegreen;
+    font-size: 44px;
+    text-shadow: 0 4px 4px black;
+}
+
+h2{
+    color: green;
+    font size: 20px
+}
+
+element{
+    display: inline-block;
+}
