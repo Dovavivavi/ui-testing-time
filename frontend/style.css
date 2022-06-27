@@ -1,19 +1,30 @@
-header{
+.header{
     background-color: aqua;
     padding: 3px;
 }
 
-h1{
+.h1{
     color: palegreen;
     font-size: 44px;
     text-shadow: 0 4px 4px black;
 }
 
-h2{
+.h2{
     color: green;
     font size: 20px
 }
 
-element{
+.element{
     display: inline-block;
 }
+
+.flex-child{
+   width: 130px;
+   height: 130px;
+   background-color: azure;
+   border: 2px, solid, black;
+}
+
+.flex_container{
+    display: flex;
+    }
